@@ -9,8 +9,8 @@
 - Docker
 
 ## Credenciales encontradas
-- admin : skqKY6360z
-- james : IT14d6SSP81k (SSH)
+- admin : 
+- james :  (SSH)
 
 ## Vector de Explotación
 - Modificación de campo `top.uploadFileName`:
