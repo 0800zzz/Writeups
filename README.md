@@ -18,7 +18,7 @@ Cada writeup documenta las etapas clave: *enumeración, explotación, post-explo
 | TryHackMe   | Hospital    | PHAR RCE, OverlayFS, CVE-2023-36664 |
 | TryHackMe   | Relevant    | SMB enum, Webshell, PrintSpoofer |
 | HackTheBox  | Ellingson   | Python RCE, SUID binary exploit, ROP + pwntools |
-
+| HackTheBox  | Reddish     | Network pivoting, enumeración en Docker,	Port Forwarding , Rsync + cron (Job Injection) |
 ---
 
 ## 🧠 ¿Por qué estos writeups?
